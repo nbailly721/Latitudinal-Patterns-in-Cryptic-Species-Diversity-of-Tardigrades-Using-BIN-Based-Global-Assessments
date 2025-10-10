@@ -1,5 +1,5 @@
 ##***************************
-## BINF6210-Assignment1-Lack of a latitudinal pattern in cryptic diversity of Tardigrades
+## Lack of a latitudinal pattern in cryptic diversity of Tardigrades
 ##
 ## Nicolas Bailly
 ##
