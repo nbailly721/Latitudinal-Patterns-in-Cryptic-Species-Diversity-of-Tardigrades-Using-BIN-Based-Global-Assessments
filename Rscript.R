@@ -296,9 +296,6 @@ ggplot(summary_by_site, aes(x = bin_species_ratio, y = zone, fill = zone)) +
 #/** Use of 'x = Inf, y = Inf' to place the text on the top right corner of the panel. via https://stackoverflow.com/questions/22488563/ggplot2-annotate-layer-position-in-r
 #/** Use of 'annotate()' to write text within the plot. via  https://ggplot2.tidyverse.org/reference/annotate.html*/#
 
-rm(list = ls())
-
-
 
 
 
