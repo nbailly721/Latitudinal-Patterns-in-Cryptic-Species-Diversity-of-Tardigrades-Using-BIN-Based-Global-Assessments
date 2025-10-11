@@ -1,12 +1,3 @@
-##***************************
-## Lack of a latitudinal pattern in cryptic diversity of Tardigrades
-##
-## Nicolas Bailly
-##
-## 2025-10-10
-##
-##***************************
-
 ## _ Install packages--------
 
 install.packages ('tidyverse')
