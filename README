@@ -1,4 +1,5 @@
-This project analyzes cryptic diversity in tardigrade species across polar and temperate zones using BIN/species ratios.
+                                                                              #####Latitudinal variation of Tardigrade cryptic diversity#####
+-This project analyzes cryptic diversity in tardigrade species across polar and temperate zones using BIN/species ratios.
 
 ## 📁 Dataset
 - `tardigrade_data.tsv` — Tab-separated dataset of species observations and coordinates.
