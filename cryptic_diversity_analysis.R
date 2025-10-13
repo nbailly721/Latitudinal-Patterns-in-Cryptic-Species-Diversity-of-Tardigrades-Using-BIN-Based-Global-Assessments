@@ -1,3 +1,15 @@
+# ============================================================
+# Project: Analysis of Cryptic Diversity in Tardigrades
+#
+# Description:
+#   This script loads and cleans tardigrade biodiversity data,
+#   performs geographical data processing (latitude and longitude),
+#   categorizes observations into climatic zones (Polar and Temperate),
+#   calculates site-level cryptic diversity metrics (BIN/species ratios),
+#   conducts statistical tests to compare zones,
+#   and visualizes results including spatial distribution and diversity patterns.
+# ============================================================
+
 ## _ Install packages--------
 
 install.packages ('tidyverse')
