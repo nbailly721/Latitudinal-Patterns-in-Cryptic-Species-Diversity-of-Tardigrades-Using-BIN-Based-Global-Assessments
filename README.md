@@ -1,4 +1,4 @@
-                                                                              #####Latitudinal variation of Tardigrade cryptic diversity#####
+                                                                              #####Latitudinal Patterns in Cryptic Species Diversity of Tardigrades Using BIN-Based Global Assessments#####
 -This project analyzes cryptic diversity in tardigrade species across polar and temperate zones using BIN/species ratios.
 
 ## 📁 Dataset
