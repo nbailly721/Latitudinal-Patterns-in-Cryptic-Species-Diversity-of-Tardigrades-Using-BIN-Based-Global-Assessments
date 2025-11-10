@@ -22,7 +22,7 @@
 
 ## 📂 Files
 - `cryptic_diversity_analysis.R`: Main script
-- `figures/`: Folder with exported plots (optional)
+- Figures summarizing the main results
 
 ## 🧠 Notes
 - Zone classification is based on latitudinal thresholds via [meteoblue](https://content.meteoblue.com/...).
