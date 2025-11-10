@@ -6,8 +6,11 @@
 - Source: [https://boldsystems.org/]
 
  🔧 Tools & Packages
-- **Language**: R
-- **Packages**: tidyverse, ggridges, viridis, assertthat, maps
+- Language: R
+- Packages: tidyverse, ggridges, viridis, assertthat, maps
+
+ 📂 Files
+- `cryptic_diversity_analysis.R`: Main script
 
  📊 Workflow Overview
 1. Data cleaning and filtering
@@ -20,11 +23,8 @@
 - No statistically significant difference in BIN/species ratio between zones
 - Notable sampling imbalance and geographic bias identified
 
- 📂 Files
-- `cryptic_diversity_analysis.R`: Main script
-
-Figures
--Distribution of BIN:Species Ratio by Zone and Wilxocon tests
+📊  Figures
+-Distribution of BIN: Species Ratio by Zone and Wilxocon tests
 -Relative frequency of cryptic diversity by zone
 -Sampling sites of tardigrades by zone
 
