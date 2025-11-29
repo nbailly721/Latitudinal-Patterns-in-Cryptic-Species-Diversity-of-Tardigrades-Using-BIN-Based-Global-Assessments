@@ -50,13 +50,11 @@ Sampling bias and uneven geographic representation observed across regions.
 
 Visual outputs include:
 
-Distribution of BIN:Species ratio by zone
+Distribution_BIN_species_ratio_by_zone.png — Ridge plot showing BIN/species ratio distributions
 
-Wilcoxon test output
+Relative_frequency_cryptic_diversity_by_zone.png — Bar plot of relative cryptic diversity
 
-Relative frequency of cryptic diversity by zone
-
-Map of tardigrade sampling sites by zone
+Tardigrade_sampling_sites_map.png — Map of sampling site locations by zone
 
 **Files in This Repository**
 
